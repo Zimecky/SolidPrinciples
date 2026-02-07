@@ -1,0 +1,3 @@
+ISP - Interface Segregation Principle
+Nie zmuszac klas do polegania na interfejsach ktorych nie wykorzystuja w calosci.
+Zlamaniem bylo by dodanie metody swimming do interfejsu Animal

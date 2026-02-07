@@ -1,0 +1,6 @@
+Single Responsibility Principle (SRP)
+A class should have only one reason to change.
+
+Zly przyklad klasa, która jest odpowiedzialna za:
+-obieranie ziemniakow, pojscie na silownie , umycie samochodu etc...
+Nalezy rozdzielic te odpowiedzialnosci na osobne klasy.

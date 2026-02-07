@@ -1,0 +1,7 @@
+Open/Closed Principle (OCP)
+Klasy i metody powinny byc otwarte na rozszerzenia , ale zamkniete na modyfikacje.
+Rozszerzenie - dodawanie nowych pol,metod.
+Modyfikacja - zmiana istniejacych pol,metod.
+Nie powinnismy usuwac istniejacych funkcjonalnosci.
+Ta zasada mowi o kompatybilnosci wstecznej - tworzymy biblioteke i modyfikowanie klas/metod moze byc niebezpieczne dla uzytkownikow biblioteki.
+Java stosuje sie do tej zasady - jest kompatybilna wstecznie.
