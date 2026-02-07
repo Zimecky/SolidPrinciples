@@ -5,3 +5,6 @@ Modyfikacja - zmiana istniejacych pol,metod.
 Nie powinnismy usuwac istniejacych funkcjonalnosci.
 Ta zasada mowi o kompatybilnosci wstecznej - tworzymy biblioteke i modyfikowanie klas/metod moze byc niebezpieczne dla uzytkownikow biblioteki.
 Java stosuje sie do tej zasady - jest kompatybilna wstecznie.
+
+Example from:
+https://medium.com/@minervaaniket/open-close-solid-principle-java-f6dd277ddb12
